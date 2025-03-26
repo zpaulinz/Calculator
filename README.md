@@ -1,7 +1,7 @@
 [![Static Badge](https://img.shields.io/badge/swift-brightgreen?style=for-the-badge&color=%23F05138)](https://github.com/zpaulinz?tab=repositories&q=swift&type=&language=)
 
 # Calculator
-A calculator app built using **Swift** that allows users to perform basic mathematical operations.
+A Calculator **iOS** app built using **Swift** that allows users to perform basic mathematical operations.  
 It features a clean, simple and intuitive UI.
 
 ## Screenshots
