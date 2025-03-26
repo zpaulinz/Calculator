@@ -4,7 +4,7 @@
 A calculator app built using **Swift** that allows users to perform basic mathematical operations.
 It features a clean, simple and intuitive UI.
 
-## Screenshot
+## Screenshots
 <div style="display: flex;">
   <img src="Screenshots/v.png" width="25%" style="margin-right: 10px;">
   <img src="Screenshots/h.png" width="50%">
